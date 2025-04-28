@@ -1,7 +1,6 @@
 import cv2 as cv
 import lfdfiles as lfd
 import numpy as np
-import statistics as stat
 import tkinter as tk
 
 from matplotlib import pyplot as plt
